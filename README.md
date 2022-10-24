@@ -1,5 +1,17 @@
 # Virtua-Notebook
 
+## Description
+This application is a personal note keeper where you can add new notes
+
+## Table of Contents
+- [User Story](#user-story)
+- [Installation](#installation)
+- [Usage Examples](#usage-examples)
+- [Questions](#questions)
+
+## Installation
+In the root directory please run:
+npm install
 ## User Story
 GIVEN a note-taking application
 WHEN I open the Note Taker
@@ -14,3 +26,9 @@ WHEN I click on an existing note in the list in the left-hand column
 THEN that note appears in the right-hand column
 WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
+
+
+## Usage examples
+## Questions
+If you have any questions regarding the status of this project or any concerns please refer to my GitHub repo:
+[leunggerry](https://github.com/leunggerry)
