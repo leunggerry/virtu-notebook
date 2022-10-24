@@ -86,6 +86,6 @@ app.get("*", (req, res) => {
   res.sendFile(path.join(__dirname, "./public/index.html"));
 });
 // create listener for the server
-app.listen(3001, () => {
+app.listen(PORT, () => {
   console.log(`API server now on port ${PORT}`);
 });
